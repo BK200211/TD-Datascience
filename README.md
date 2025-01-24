@@ -32,10 +32,4 @@ devez classer les fruits en deux catégories : Pomme et Orange.
 pourrait-il affecter le modèle de classification ?
 
 
-
-
-
-Merci beaucoup pour le temps que vous nous avez attribué pour lire notre description.
-Bonne journée!!
-
-Boris Kovachev
+## Boris Kovachev I1
